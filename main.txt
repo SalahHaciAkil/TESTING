@@ -1,5 +1,11 @@
 MAIN
+<<<<<<< HEAD
 rrrrrrrrrrr
 rrr
 sadasdasdsadsadsadas
 
+=======
+Dev
+salasdasdasdsadsa
+dd
+>>>>>>> 1e2d34053fd28ae4e9ef01ffdaff6e800d65ae04
